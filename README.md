@@ -16,6 +16,18 @@ If you get hit by a spider, you lose immediately.
 <img src="https://user-images.githubusercontent.com/75222169/206083911-eaf35d31-cb72-4587-a205-f29a23617346.gif" width="500"/>
 
 
+## Installation
+
+Install my-project
+
+```bash
+  python3 -m pip install -U pygame
+  git clone https://github.com/Remy-Haidaraly/FxSnailGame.git
+  cd FxSnailGame
+  python main.py
+
+```
+
 
 ## Author
 
