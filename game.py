@@ -30,7 +30,7 @@ class Game():
 
     def game_over(self):
         self.all_spiders = pygame.sprite.Group()
-        self.player.vie = self.player.health_max
+        self.player.health = self.player.health_max
         self.score = 0
         self.bonus_event.reset_percent()
         self.is_playing = False
