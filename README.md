@@ -24,7 +24,7 @@ Install my-project
   python3 -m pip install -U pygame
   git clone https://github.com/Remy-Haidaraly/FxSnailGame.git
   cd FxSnailGame
-  python main.py
+  python3 main.py
 
 ```
 
